@@ -96,7 +96,7 @@ def dos2():
 def usage():
     print(
         """ \033[92m	DaniiSaahir's DDoS Tool \n
-	usage : python run.py [-s] [-p] [-t]
+	Usage : python run.py [-s] [-p] [-t]
 	-s : server IP
 	-p : port default 80
 	-t : thread default 400 \033[0m"""
